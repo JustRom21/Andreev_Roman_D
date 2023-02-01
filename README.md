@@ -20,11 +20,10 @@ I am well organized and detail-oriented, which I believe is the key to successfu
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Test-Suites, Test-Cases and Bug-Reports](https://github.com/JustRom21/Testing-documentation_examples)
+- [Bug-Reports in JIRA/AzureDevops](https://github.com/JustRom21/Bug-reports_JIRA-Azure)
+- [SQL Queries](https://github.com/JustRom21/MySQL_Queries)
+- [Postman Collections](https://github.com/JustRom21/Postman_Collection_PetShop/blob/main/README.md)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/justrom21/)
