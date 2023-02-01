@@ -1,4 +1,5 @@
-## I'm a manual QA Engineer. 
+[![Header](https://github.com/JustRom21/Andreev_Roman_D/blob/main/assets/123.png)]
+## I'm a manual QA Engineer.
 I am a purposeful and highly motivated person who can quickly adapt to a new environment. My qualities, such as sociability, flexibility and reliability, allow me to work well in a team.
 I am well organized and detail-oriented, which I believe is the key to successfully managing responsibilities.
 ## My CV
