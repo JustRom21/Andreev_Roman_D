@@ -2,8 +2,6 @@
 ## I'm a manual QA Engineer.
 I am a purposeful and highly motivated person who can quickly adapt to a new environment. My qualities, such as sociability, flexibility and reliability, allow me to work well in a team.
 I am well organized and detail-oriented, which I believe is the key to successfully managing responsibilities.
-## My CV
-[Link to my CV](https://drive.google.com/file/d/1JkUUq32PsZioOQdLBeD6AU3gFW0aX2pl/view?usp=sharing)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
